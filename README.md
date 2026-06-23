@@ -1,6 +1,5 @@
 # Sales Analysis
-- Analysed a companies data for sales in based of real life based questions using python and its various libraries and created graphs for it also for easier visulization.
-- Language used - python (pandas, matplotlib)
+- Analysed a companies data for sales based on real life situations: used python for data cleaning and EDA, then used SQL for finding answer to business questions  and created a dashboard for the visulization and showing to stakeholders.
 - Using the sales data and solving arising real world problems to get answers to sales related problems - cleaned the data and data augmentation
 and then given answers to the raised questions.
 
@@ -8,6 +7,11 @@ and then given answers to the raised questions.
 - Stocks used - Google
 - Language used - python (tensorflow)
 - Using the tensorflow libraries and its functions have created a deeplearning model to predict the price of Google stock
+
+# Loan Approval Analysis
+- Analysed a data from a loan company for loan approval based on real life situations: used python for data cleaning and EDA, then used SQL for finding answer to business questions regarding various scenarios and created a dashboard for the visulization and showing to stakeholders.
+- Using the loan company's data to better understand the various criterias on which loans are approved or rejected - cleaned the data and data augmentation
+and then given answers to the raised questions.
 
 # Apple App Store Analysis
 - Analysed a Apple App store data for finding out of various relations for what to do to get your app more downloads and good ratings.
