@@ -1,4 +1,4 @@
-# Sales Analysis
+# Customer Sales Analysis
 - Analysed a companies data for sales based on real life situations: used python for data cleaning and EDA, then used SQL for finding answer to business questions  and created a dashboard for the visulization and showing to stakeholders.
 - Using the sales data and solving arising real world problems to get answers to sales related problems - cleaned the data and data augmentation
 and then given answers to the raised questions.
